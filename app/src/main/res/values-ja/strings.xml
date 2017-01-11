@@ -36,6 +36,17 @@
   <string name="hint_please_insert_contact">ここに、このエントリの問い合わせ先の詳細を入力してください&#8230;</string>
   <string name="publish_entry">公開</string>
   <string name="limited_time_active_notice">ご注意ください! エントリは、今から 3 週間利用できます。</string>
+  <string name="share_my_entry_at_froody">Froody アプリで、私のエントリ</string>
+  <string name="share_chooser_share_entry">エントリを共有</string>
+  <string name="nav__my_entries">私のエントリ</string>
   <!-- Info -->
+  <string name="show_licenses">ライセンスを表示</string>
   <!-- Location -->
+  <string name="request_location">場所をリクエスト</string>
+  <string name="gps_locating_user">探しています&#8230;</string>
+  <string name="address_most_near">付近</string>
+  <string name="error_bad_permissions">正常に機能させるため、Froody に場所のアクセスと、データの書き込みアクセス許可を与えてください。これらがなければアプリは使用できません。</string>
+  <string name="show_map_on_current_location">現在の場所を地図に表示しますか?</string>
+  <string name="zoom_out">縮小</string>
+  <string name="cannot_locate_user">ユーザーの場所が見つかりません。システム設定で位置情報サービスを有効にしてください!</string>
 </resources>
