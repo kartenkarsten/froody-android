@@ -3,6 +3,11 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">画像</string>
+  <string name="reset">リセット</string>
+  <string name="settings">設定</string>
+  <string name="more">さらに</string>
+  <string name="description">説明</string>
   <!-- More general words -->
   <!-- Main -->
   <!-- Publish -->
