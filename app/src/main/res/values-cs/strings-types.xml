@@ -44,4 +44,11 @@
   <string name="entry_type__mushroom">Houba</string>
   <string name="entry_type__orange">Pomeranč</string>
   <string name="entry_type__peach">Broskev</string>
+  <string name="entry_type__potato">Brambora</string>
+  <string name="entry_type__sapling">Sazenice</string>
+  <string name="entry_type__strawberry">Jahoda</string>
+  <string name="entry_type__tomato">Rajče</string>
+  <string name="entry_type__wood">Dřevo</string>
+  <string name="entry_type__zucchini">Cuketa</string>
+  <string name="entry_type__aubergine">Lilek</string>
 </resources>
