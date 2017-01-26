@@ -24,4 +24,12 @@
   <string name="entry_type__apple">Jablko</string>
   <string name="entry_type__pear">Hruška</string>
   <string name="entry_type__cherry">Třešně</string>
+  <string name="entry_type__plum">Švestka</string>
+  <string name="entry_type__current">Aktuální</string>
+  <string name="entry_type__grape">Hroznové víno</string>
+  <string name="entry_type__hazelnut">Lískové ořechy</string>
+  <string name="entry_type__milk">Mléko</string>
+  <string name="entry_type__raspberry">Maliny</string>
+  <string name="entry_type__walnut">Vlašské ořechy</string>
+  <string name="entry_type__carrot">Mrkev</string>
 </resources>
