@@ -8,6 +8,7 @@
   <!-- Certification Types -->
   <string name="certification_type__none">Ninguna</string>
   <string name="certification_type__bio">Biografía</string>
+  <string name="certification_type__demeter">Demeter</string>
   <!-- Distribution Types -->
   <string name="distribution_type__free">Gratuita</string>
   <string name="distribution_type__donate">Donación</string>
@@ -40,13 +41,13 @@
   <string name="entry_type__flower">Flor</string>
   <string name="entry_type__honey">Miel</string>
   <string name="entry_type__lemon">Limón</string>
-  <string name="entry_type__mushroom">Hongo</string>
+  <string name="entry_type__mushroom">Seta</string>
   <string name="entry_type__orange">Naranja</string>
-  <string name="entry_type__peach">Durazno</string>
-  <string name="entry_type__potato">Papa</string>
+  <string name="entry_type__peach">Melocotón</string>
+  <string name="entry_type__potato">Patata</string>
   <string name="entry_type__sapling">Brote</string>
   <string name="entry_type__strawberry">Fresa</string>
-  <string name="entry_type__tomato">Jitomate</string>
+  <string name="entry_type__tomato">Tomate</string>
   <string name="entry_type__wood">Madera</string>
   <string name="entry_type__zucchini">Calabacín</string>
   <string name="entry_type__aubergine">Berenjena</string>
