@@ -32,4 +32,16 @@
   <string name="entry_type__raspberry">Maliny</string>
   <string name="entry_type__walnut">Vlašské ořechy</string>
   <string name="entry_type__carrot">Mrkev</string>
+  <string name="entry_type__cereal">Obilí</string>
+  <string name="entry_type__chili">Chili</string>
+  <string name="entry_type__corn">Kukuřice</string>
+  <string name="entry_type__cucumber">Okurka</string>
+  <string name="entry_type__egg">Vejce</string>
+  <string name="entry_type__fish">Ryba</string>
+  <string name="entry_type__flower">Květina</string>
+  <string name="entry_type__honey">Med</string>
+  <string name="entry_type__lemon">Citrón</string>
+  <string name="entry_type__mushroom">Houba</string>
+  <string name="entry_type__orange">Pomeranč</string>
+  <string name="entry_type__peach">Broskev</string>
 </resources>
