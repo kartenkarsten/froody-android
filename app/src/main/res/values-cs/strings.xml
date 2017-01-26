@@ -3,6 +3,10 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Obrázek</string>
+  <string name="reset">Resetovat</string>
+  <string name="settings">Nastavení</string>
+  <string name="more">Více</string>
   <!-- More general words -->
   <!-- Main -->
   <!-- Publish -->
