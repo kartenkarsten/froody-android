@@ -43,4 +43,7 @@
   <string name="show_licenses">Ukázat licence</string>
   <!-- Location -->
   <string name="request_location">Načíst informace o místu</string>
+  <string name="gps_locating_user">Lokalizuji&#8230;</string>
+  <string name="address_most_near">V blízkosti</string>
+  <string name="error_bad_permissions">Prosím, povol Froody přístup k lokalizaci a úložišti, aby mohla aplikace správně fungovat. Bez tohoto povolení nemůže tato aplikace správně fungovat.</string>
 </resources>
