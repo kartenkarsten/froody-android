@@ -11,4 +11,5 @@
   <!-- App -->
   <string name="pref_cat__app">Aplikace</string>
   <string name="pref_desc__reset_app">Resetovat aplikaci včetně všech dat</string>
+  <string name="pref_title__reset_app">Resetovat aplikaci</string>
 </resources>
