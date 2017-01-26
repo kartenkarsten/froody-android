@@ -7,7 +7,15 @@
   <string name="reset">Resetovat</string>
   <string name="settings">Nastavení</string>
   <string name="more">Více</string>
+  <string name="description">Popis</string>
+  <string name="location">Pozice</string>
+  <string name="error">Chyba</string>
+  <string name="all">Vše</string>
+  <string name="informations">Informace</string>
+  <string name="contributors">Spoluautoři</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Hledat&#8230;</string>
+  <string name="distribution_type">Distribuce</string>
   <!-- Main -->
   <!-- Publish -->
   <!-- Info -->
