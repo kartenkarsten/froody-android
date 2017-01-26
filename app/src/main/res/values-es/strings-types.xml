@@ -42,4 +42,10 @@
   <string name="entry_type__orange">Naranja</string>
   <string name="entry_type__peach">Durazno</string>
   <string name="entry_type__potato">Papa</string>
+  <string name="entry_type__sapling">Brote</string>
+  <string name="entry_type__strawberry">Fresa</string>
+  <string name="entry_type__tomato">Jitomate</string>
+  <string name="entry_type__wood">Madera</string>
+  <string name="entry_type__zucchini">Calabacín</string>
+  <string name="entry_type__aubergine">Berenjena</string>
 </resources>
