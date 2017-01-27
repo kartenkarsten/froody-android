@@ -3,5 +3,10 @@
 <resources>
   <!-- Keys (not translate able -->
   <!-- Network -->
+  <string name="pref_cat__network">Réseau</string>
+  <string name="pref_title__froody_server">Changer de serveur</string>
+  <string name="pref_title__clear_cache">Vider le cache</string>
   <!-- App -->
+  <string name="pref_cat__app">Application</string>
+  <string name="pref_title__reset_app">Réinitialiser l\'appli</string>
 </resources>
