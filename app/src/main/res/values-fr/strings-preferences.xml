@@ -8,5 +8,6 @@
   <string name="pref_title__clear_cache">Vider le cache</string>
   <!-- App -->
   <string name="pref_cat__app">Application</string>
+  <string name="pref_desc__reset_app">Réinitialise l\'appli à son état de 1e installation</string>
   <string name="pref_title__reset_app">Réinitialiser l\'appli</string>
 </resources>
