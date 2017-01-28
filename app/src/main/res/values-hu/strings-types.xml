@@ -14,9 +14,6 @@
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__unknown">Ismeretlen</string>
   <string name="entry_type__special__miscellaneous">Egyéb</string>
-  <string name="entry_type__special__bread">Kenyér</string>
-  <string name="entry_type__special__cloth">Ruha</string>
-  <string name="entry_type__special__sleep_place">Alvóhely</string>
   <string name="entry_type__special__water">Víz</string>
   <!-- Entry Types -->
   <string name="entry_type__apple">Alma</string>
