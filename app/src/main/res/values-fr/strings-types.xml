@@ -16,16 +16,12 @@
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__unknown">Inconnu</string>
   <string name="entry_type__special__miscellaneous">Divers</string>
-  <string name="entry_type__special__bread">Pain</string>
-  <string name="entry_type__special__cloth">Vêtements</string>
-  <string name="entry_type__special__sleep_place">Endroit pour dormir</string>
   <string name="entry_type__special__water">Eau</string>
   <!-- Entry Types -->
   <string name="entry_type__apple">Pomme</string>
   <string name="entry_type__pear">Poire</string>
   <string name="entry_type__cherry">Cerise</string>
   <string name="entry_type__plum">Prune</string>
-  <string name="entry_type__current">Actuel</string>
   <string name="entry_type__grape">Raisin</string>
   <string name="entry_type__hazelnut">Noisette</string>
   <string name="entry_type__milk">Lait</string>
