@@ -7,7 +7,7 @@
   <string name="gps_type__current">Momentální pozice</string>
   <!-- Certification Types -->
   <string name="certification_type__none">Žádné</string>
-  <string name="certification_type__bio">Biografie</string>
+  <string name="certification_type__bio">Bio</string>
   <string name="certification_type__demeter">Démétér</string>
   <!-- Distribution Types -->
   <string name="distribution_type__free">Zdarma</string>
