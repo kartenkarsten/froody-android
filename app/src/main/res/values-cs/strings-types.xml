@@ -11,7 +11,7 @@
   <string name="certification_type__demeter">Démétér</string>
   <!-- Distribution Types -->
   <string name="distribution_type__free">Zdarma</string>
-  <string name="distribution_type__donate">Darování</string>
+  <string name="distribution_type__donate">Darovat</string>
   <string name="distribution_type__sale">Prodej</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__unknown">Neznámý</string>
