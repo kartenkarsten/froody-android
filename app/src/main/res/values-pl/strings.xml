@@ -40,5 +40,13 @@
   <string name="share_chooser_share_entry">Udostępnij wpis</string>
   <string name="nav__my_entries">Moje wpisy</string>
   <!-- Info -->
+  <string name="show_licenses">Pokaż licencje</string>
   <!-- Location -->
+  <string name="request_location">Żądanie lokalizacji</string>
+  <string name="gps_locating_user">Lokalizowanie&#8230;</string>
+  <string name="address_most_near">W pobliżu</string>
+  <string name="error_bad_permissions">Prosimy o dostęp do lokalizacji i zapisywania danych, do poprawnego funkcjonowania aplikacji Froody. Bez Twojego pozwolenia, aplikacja nie będzie działać poprawnie.</string>
+  <string name="show_map_on_current_location">Pokazać mapę dla aktualnego położenia?</string>
+  <string name="zoom_out">Pomniejsz</string>
+  <string name="cannot_locate_user">Nie można zlokalizować użytkownika. Włącz usługi lokalizacji w ustawieniach systemu!</string>
 </resources>
