@@ -3,7 +3,25 @@
 <resources>
   <!-- General & Important things -->
   <!-- General words -->
+  <string name="image">Obraz</string>
+  <string name="reset">Wyzeruj</string>
+  <string name="settings">Ustawienia</string>
+  <string name="more">Więcej</string>
+  <string name="description">Opis</string>
+  <string name="location">Lokalizacja</string>
+  <string name="error">Błąd</string>
+  <string name="all">Wszystko</string>
+  <string name="contributors">Współautorzy</string>
+  <string name="about_">O nas</string>
   <!-- More general words -->
+  <string name="search_dotdotdot">Szukaj&#8230;</string>
+  <string name="distribution_type">Dystrybucja</string>
+  <string name="certification">Certyfikacja</string>
+  <string name="contact">Kontakt</string>
+  <string name="maintainers">Twórcy aplikacji</string>
+  <string name="map">Mapa</string>
+  <string name="blog">Blog</string>
+  <string name="license">Licencja</string>
   <!-- Main -->
   <!-- Publish -->
   <!-- Info -->
