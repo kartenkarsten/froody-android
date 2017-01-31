@@ -48,5 +48,5 @@
   <string name="error_bad_permissions">Prosimy o dostęp do lokalizacji i zapisywania danych, do poprawnego funkcjonowania aplikacji Froody. Bez Twojego pozwolenia, aplikacja nie będzie działać poprawnie.</string>
   <string name="show_map_on_current_location">Pokazać mapę dla aktualnego położenia?</string>
   <string name="zoom_out">Pomniejsz</string>
-  <string name="cannot_locate_user">Nie można zlokalizować użytkownika. Włącz usługi lokalizacji w ustawieniach systemu!</string>
+  <string name="cannot_locate_user">Nie można określić Twojego położenia. Włącz usługę lokalizacji w ustawieniach systemu!</string>
 </resources>
