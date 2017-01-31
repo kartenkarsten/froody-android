@@ -39,4 +39,13 @@
   <string name="entry_type__honey">Miód</string>
   <string name="entry_type__lemon">Cytryny</string>
   <string name="entry_type__mushroom">Grzyby</string>
+  <string name="entry_type__orange">Pomarańcze</string>
+  <string name="entry_type__peach">Brzoskwinie</string>
+  <string name="entry_type__potato">Ziemniaki</string>
+  <string name="entry_type__sapling">Sadzonki</string>
+  <string name="entry_type__strawberry">Truskawki</string>
+  <string name="entry_type__tomato">Pomidory</string>
+  <string name="entry_type__wood">Drewno</string>
+  <string name="entry_type__zucchini">Cukinia</string>
+  <string name="entry_type__aubergine">Bakłażan</string>
 </resources>
