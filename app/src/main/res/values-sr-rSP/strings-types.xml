@@ -14,7 +14,6 @@
   <string name="distribution_type__donate">донација</string>
   <string name="distribution_type__sale">продаја</string>
   <!-- Entry Types (Special) -->
-  <string name="entry_type__special__unknown">непознато</string>
   <string name="entry_type__special__miscellaneous">разно</string>
   <string name="entry_type__special__water">вода</string>
   <!-- Entry Types -->
