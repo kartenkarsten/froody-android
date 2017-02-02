@@ -41,4 +41,11 @@
   <string name="entry_type__mushroom">печурке</string>
   <string name="entry_type__orange">поморанџе</string>
   <string name="entry_type__peach">брескве</string>
+  <string name="entry_type__potato">кромпир</string>
+  <string name="entry_type__sapling">клице</string>
+  <string name="entry_type__strawberry">јагоде</string>
+  <string name="entry_type__tomato">парадајз</string>
+  <string name="entry_type__wood">дрво</string>
+  <string name="entry_type__zucchini">тиквице</string>
+  <string name="entry_type__aubergine">патлиџан</string>
 </resources>
