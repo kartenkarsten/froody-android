@@ -14,5 +14,31 @@
   <string name="distribution_type__donate">донација</string>
   <string name="distribution_type__sale">продаја</string>
   <!-- Entry Types (Special) -->
+  <string name="entry_type__special__unknown">непознато</string>
+  <string name="entry_type__special__miscellaneous">разно</string>
+  <string name="entry_type__special__water">вода</string>
   <!-- Entry Types -->
+  <string name="entry_type__apple">јабука</string>
+  <string name="entry_type__pear">крушка</string>
+  <string name="entry_type__cherry">вишња</string>
+  <string name="entry_type__plum">шљива</string>
+  <string name="entry_type__currant">рибизла</string>
+  <string name="entry_type__grape">грожђе</string>
+  <string name="entry_type__hazelnut">лешник</string>
+  <string name="entry_type__milk">млеко</string>
+  <string name="entry_type__raspberry">малина</string>
+  <string name="entry_type__walnut">орах</string>
+  <string name="entry_type__carrot">шаргарепа</string>
+  <string name="entry_type__cereal">житарице</string>
+  <string name="entry_type__chili">папричице</string>
+  <string name="entry_type__corn">кукуруз</string>
+  <string name="entry_type__cucumber">краставац</string>
+  <string name="entry_type__egg">јаје</string>
+  <string name="entry_type__fish">риба</string>
+  <string name="entry_type__flower">цвеће</string>
+  <string name="entry_type__honey">мед</string>
+  <string name="entry_type__lemon">лимун</string>
+  <string name="entry_type__mushroom">печурке</string>
+  <string name="entry_type__orange">поморанџе</string>
+  <string name="entry_type__peach">брескве</string>
 </resources>
