@@ -3,5 +3,9 @@
 <resources>
   <!-- Keys (not translate able -->
   <!-- Network -->
+  <string name="pref_cat__network">Мрежа</string>
+  <string name="pref_title__froody_server">Промени сервер</string>
+  <string name="pref_title__clear_cache">Обриши кеш</string>
+  <string name="pref_desc__clear_cache">брише кеш уноса, последњу позицију</string>
   <!-- App -->
 </resources>
