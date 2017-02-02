@@ -12,7 +12,6 @@
   <string name="distribution_type__donate">Adományon alapuló</string>
   <string name="distribution_type__sale">Eladás</string>
   <!-- Entry Types (Special) -->
-  <string name="entry_type__special__unknown">Ismeretlen</string>
   <string name="entry_type__special__miscellaneous">Egyéb</string>
   <string name="entry_type__special__water">Víz</string>
   <!-- Entry Types -->
