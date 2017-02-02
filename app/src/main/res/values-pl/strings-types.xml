@@ -14,7 +14,6 @@
   <string name="distribution_type__donate">Datek</string>
   <string name="distribution_type__sale">Sprzedaż</string>
   <!-- Entry Types (Special) -->
-  <string name="entry_type__special__unknown">Nieznane</string>
   <string name="entry_type__special__miscellaneous">Róźne</string>
   <string name="entry_type__special__water">Woda</string>
   <!-- Entry Types -->
