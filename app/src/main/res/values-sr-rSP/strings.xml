@@ -45,4 +45,8 @@
   <string name="request_location">Тражи локацију</string>
   <string name="gps_locating_user">Лоцирам&#8230;</string>
   <string name="address_most_near">у близини</string>
+  <string name="error_bad_permissions">Дозволите Фрудију да приступа локацији и уписује податке да би исправно радио. Не може се користити без тога.</string>
+  <string name="show_map_on_current_location">Приказати мапу око тренутне локације?</string>
+  <string name="zoom_out">Одаљи</string>
+  <string name="cannot_locate_user">Не могу да лоцирам корисника. Укључите услугу локације у поставкама система!</string>
 </resources>
