@@ -14,7 +14,6 @@
   <string name="distribution_type__donate">Donación</string>
   <string name="distribution_type__sale">Venta</string>
   <!-- Entry Types (Special) -->
-  <string name="entry_type__special__unknown">Desconocido</string>
   <string name="entry_type__special__miscellaneous">Diversos</string>
   <string name="entry_type__special__water">Agua</string>
   <!-- Entry Types -->
