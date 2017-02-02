@@ -33,6 +33,16 @@
   <string name="suggested">Предложено</string>
   <string name="select_froody">Изаберите шта нудите&#8230;</string>
   <string name="hint__description__enter_here">унесите опис овде (нпр. квалитет, за прављење мармеладе, подврста&#8230;)</string>
+  <string name="hint__contact__enter_here">унесите детаље за контакт овде (требало би да садржи број телефона или е-адресу)</string>
+  <string name="publish_entry">Објави</string>
+  <string name="limited_time_active_notice">Упозорење! Унос ће бити доступан наредне три недеље.</string>
+  <string name="share_my_entry_at_froody">Моји уноси у Фруди</string>
+  <string name="share_chooser_share_entry">Подели унос</string>
+  <string name="nav__my_entries">Моји уноси</string>
   <!-- Info -->
+  <string name="show_licenses">Прикажи лиценце</string>
   <!-- Location -->
+  <string name="request_location">Тражи локацију</string>
+  <string name="gps_locating_user">Лоцирам&#8230;</string>
+  <string name="address_most_near">у близини</string>
 </resources>
