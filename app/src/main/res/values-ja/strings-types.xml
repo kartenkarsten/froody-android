@@ -14,7 +14,6 @@
   <string name="distribution_type__donate">寄付</string>
   <string name="distribution_type__sale">販売</string>
   <!-- Entry Types (Special) -->
-  <string name="entry_type__special__unknown">不明</string>
   <string name="entry_type__special__miscellaneous">その他</string>
   <string name="entry_type__special__water">水</string>
   <!-- Entry Types -->
