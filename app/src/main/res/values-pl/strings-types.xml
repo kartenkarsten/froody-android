@@ -14,6 +14,7 @@
   <string name="distribution_type__free">Darmowe</string>
   <string name="distribution_type__donate">Datek</string>
   <string name="distribution_type__sale">Sprzedaż</string>
+  <string name="distribution_type__swap">Zamiana</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">Róźne</string>
   <string name="entry_type__special__water">Woda</string>
