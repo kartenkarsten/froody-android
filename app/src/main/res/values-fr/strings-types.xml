@@ -14,6 +14,7 @@
   <string name="distribution_type__free">Gratuit</string>
   <string name="distribution_type__donate">Don</string>
   <string name="distribution_type__sale">Vente</string>
+  <string name="distribution_type__swap">Troc</string>
   <!-- Entry Types (Special) -->
   <string name="entry_type__special__miscellaneous">Divers</string>
   <string name="entry_type__special__water">Eau</string>
