@@ -15,6 +15,12 @@
   <string name="about_">Névjegy</string>
   <!-- More general words -->
   <string name="search_dotdotdot">Keresés&#8230;</string>
+  <string name="distribution_type">Átvétel</string>
+  <string name="certification">Tanúsítvány</string>
+  <string name="contact">Elérhetőség</string>
+  <string name="maintainers">Karbantartók</string>
+  <string name="map">Térkép</string>
+  <string name="blog">Blog</string>
   <!-- Main -->
   <!-- Publish -->
   <!-- Info -->
