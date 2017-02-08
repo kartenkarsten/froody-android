@@ -3,6 +3,7 @@ package io.github.froodyapp.util;
 import android.annotation.SuppressLint;
 import android.content.Context;
 import android.content.SharedPreferences;
+import android.location.Location;
 
 import java.util.ArrayList;
 
@@ -167,6 +168,12 @@ public class AppSettings {
         setInt(R.string.pref_key__last_map_location_zoom, zoom);
     }
 
+    public Location getFallbackLocation() {
+        Location fallbackLocaton = new Location("");//provider name is unecessary
+        fallbackLocaton.setLatitude(Double.parseDouble(getString(R.string.pref_key__home_lat,"42.0")));
+        fallbackLocaton.setLongitude(Double.parseDouble(getString(R.string.pref_key__home_lng,"23.0")));
+        return fallbackLocaton;
+    }
     public int getLastCertification() {
         return getInt(R.string.pref_key__entry__last_certification, 0);
     }

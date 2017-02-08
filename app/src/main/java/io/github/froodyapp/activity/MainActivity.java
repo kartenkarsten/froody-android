@@ -99,7 +99,7 @@ public class MainActivity extends AppCompatActivity implements FroodyEntrySelect
 
         app = (App) getApplication();
         appSettings = app.getAppSettings();
-        locationTool = new LocationTool(appSettings.getAllowLocationListeningNetwork(), appSettings.getAllowLocationListeningGps());
+        locationTool = new LocationTool(appSettings.getAllowLocationListeningNetwork(), appSettings.getAllowLocationListeningGps(),appSettings.getFallbackLocation());
         fragmentManager = getSupportFragmentManager();
 
         setupBars();

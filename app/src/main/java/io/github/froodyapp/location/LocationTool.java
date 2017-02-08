@@ -3,11 +3,13 @@ package io.github.froodyapp.location;
 import android.Manifest;
 import android.app.Activity;
 import android.content.Context;
+import android.content.SharedPreferences;
 import android.content.pm.PackageManager;
 import android.location.Location;
 import android.location.LocationListener;
 import android.location.LocationManager;
 import android.os.Bundle;
+import android.preference.PreferenceManager;
 import android.support.v4.app.ActivityCompat;
 import android.support.v4.content.ContextCompat;
 
@@ -49,18 +51,20 @@ public class LocationTool {
     private String requestedBy = "";
     private final boolean settingAllowGpsListening;
     private final boolean settingAllowNetListening;
+    private final Location fallbackLocation;
 
     //########################
     //## Methods
     //########################
 
     public LocationTool() {
-        this(true, true);
+        this(true, true, null);
     }
 
-    public LocationTool(boolean settingAllowGpsListening, boolean settingAllowNetListening) {
+    public LocationTool(boolean settingAllowGpsListening, boolean settingAllowNetListening, Location fallbackLocation) {
         this.settingAllowNetListening = settingAllowNetListening;
         this.settingAllowGpsListening = settingAllowGpsListening;
+        this.fallbackLocation = fallbackLocation;
     }
 
     //########################
@@ -274,7 +278,7 @@ public class LocationTool {
             }
 
             // Nothing available
-            postLocation(null);
+            postLocation(fallbackLocation);
         }
     }
 }

@@ -68,4 +68,12 @@
     <string name="show_map_on_current_location">Show map on current location?</string>
     <string name="zoom_out">Zoom out</string>
     <string name="cannot_locate_user">Cannot locate user. Please enable location services in system settings!</string>
+    <string name="home_lat_default">53.4513</string>
+    <string name="home_lng_default">10.0964</string>
+    <string name="pref_key__home_lat">pref_key_home_lat</string>
+    <string name="pref_key__home_lng">pref_key__home_lng</string>
+    <string name="pref_desc__home_lng">longitude of your home position</string>
+    <string name="pref_title__home_lng">fallback position longitude</string>
+    <string name="pref_desc__home_lat">latitude of your home position</string>
+    <string name="pref_title__home_lat">fallback position latitude</string>
 </resources>

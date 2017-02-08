@@ -30,6 +30,22 @@
             android:summary="@string/pref_desc__reset_app"
             android:title="@string/pref_title__reset_app" />
 
+        <EditTextPreference
+            android:inputType="numberDecimal"
+            android:defaultValue="@string/home_lat_default"
+            android:icon="@drawable/ic_gps_fixed_white_48px"
+            android:key="@string/pref_key__home_lat"
+            android:summary="@string/pref_desc__home_lat"
+            android:title="@string/pref_title__home_lat" />
+
+        <EditTextPreference
+            android:inputType="numberDecimal"
+            android:defaultValue="@string/home_lng_default"
+            android:icon="@drawable/ic_gps_fixed_white_48px"
+            android:key="@string/pref_key__home_lng"
+            android:summary="@string/pref_desc__home_lng"
+            android:title="@string/pref_title__home_lng" />
+
     </PreferenceCategory>
 
 
